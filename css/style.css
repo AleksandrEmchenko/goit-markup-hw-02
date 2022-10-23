@@ -177,3 +177,14 @@ body{
 footer{
     background-color: var(--text-color); /*для видимості*/
 }
+
+.address{
+    color: var(--secondary-title-color);
+    font-style: normal;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+
+.address-color{
+    color: rgba(255, 255, 255, 0.6);
+}
