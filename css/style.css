@@ -202,6 +202,10 @@ footer{
     background-color: var(--first-bgcolor);
 }
 
+footer .link{
+    font-weight: 400;
+}
+
 .address{
     color: var(--secondary-title-color);
     font-style: normal;
